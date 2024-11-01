@@ -1,0 +1,260 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: Events Manager – Events / Locations Slider\n"
+"POT-Creation-Date: 2019-06-11 13:12+0200\n"
+"PO-Revision-Date: 2019-06-11 13:12+0200\n"
+"Last-Translator: Patrick Buntsma <info@stonehengecreations.nl>\n"
+"Language-Team: Patrick Buntsma <info@stonehengecreations.nl>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.3\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: stonehenge-em-slider.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.min.js\n"
+
+#: core/more-addons.php:26
+msgid "More Add-ons"
+msgstr ""
+
+#: core/more-addons.php:27
+msgid "More..."
+msgstr ""
+
+#: core/more-addons.php:114
+#, php-format
+msgid "Install %s"
+msgstr ""
+
+#: core/more-addons.php:117
+msgid "Plugin <strong>activated</strong>."
+msgstr ""
+
+#: core/more-addons.php:124
+msgid "Coming Soon"
+msgstr ""
+
+#: core/more-addons.php:141
+msgid "Even More Goodies!"
+msgstr ""
+
+#: core/stonehenge-core.php:238
+msgid "Your settings have been saved."
+msgstr ""
+
+#: core/stonehenge-core.php:257 core/stonehenge-core.php:716
+msgid "Save Changes"
+msgstr ""
+
+#: core/stonehenge-core.php:322 stonehenge-em-slider.php:197
+#: stonehenge-em-slider.php:207 stonehenge-em-slider.php:217
+#: stonehenge-em-slider.php:227 stonehenge-em-slider.php:237
+#: stonehenge-em-slider.php:248 stonehenge-em-slider.php:313
+#: stonehenge-em-slider.php:323 stonehenge-em-slider.php:333
+#: stonehenge-em-slider.php:343 stonehenge-em-slider.php:353
+#: stonehenge-em-slider.php:364
+msgid "No"
+msgstr ""
+
+#: core/stonehenge-core.php:322 stonehenge-em-slider.php:196
+#: stonehenge-em-slider.php:206 stonehenge-em-slider.php:216
+#: stonehenge-em-slider.php:226 stonehenge-em-slider.php:236
+#: stonehenge-em-slider.php:247 stonehenge-em-slider.php:312
+#: stonehenge-em-slider.php:322 stonehenge-em-slider.php:332
+#: stonehenge-em-slider.php:342 stonehenge-em-slider.php:352
+#: stonehenge-em-slider.php:363
+msgid "Yes"
+msgstr ""
+
+#: core/stonehenge-core.php:351
+msgid "Select"
+msgstr ""
+
+#: core/stonehenge-core.php:382
+msgid "Choose file"
+msgstr ""
+
+#: core/stonehenge-core.php:383
+msgid "Clear"
+msgstr ""
+
+#: core/stonehenge-core.php:421
+msgid "Select Color"
+msgstr ""
+
+#: core/stonehenge-core.php:639
+msgid ""
+"Not all required fields were filled out. Please check all sections and try "
+"again."
+msgstr ""
+
+#: core/stonehenge-core.php:664
+msgid "Settings"
+msgstr ""
+
+#: core/stonehenge-core.php:679
+msgid "Support"
+msgstr ""
+
+#: core/stonehenge-core.php:680
+msgid "Donate"
+msgstr ""
+
+#: core/stonehenge-core.php:683
+msgid "Rate this plugin"
+msgstr ""
+
+#: core/stonehenge-core.php:716
+#, php-format
+msgctxt "Please check your settings and click on \"Save Changes\"."
+msgid "Please check your <a href=%1$s>settings</a> and click on \"%2$s\"."
+msgstr ""
+
+#: core/stonehenge-core.php:732
+#, php-format
+msgid ""
+"New options have been added. Please, check your <a href=%1$s>settings</a>."
+msgstr ""
+
+#: stonehenge-em-slider.php:147 stonehenge-em-slider.php:263
+msgid "Example"
+msgstr ""
+
+#: stonehenge-em-slider.php:150 stonehenge-em-slider.php:266
+#, php-format
+msgid "You can use the same arguments as in the %s shortcode."
+msgstr ""
+
+#: stonehenge-em-slider.php:154 stonehenge-em-slider.php:270
+msgid "Single Slide Format"
+msgstr ""
+
+#: stonehenge-em-slider.php:161 stonehenge-em-slider.php:277
+msgid "Animation Mode"
+msgstr ""
+
+#: stonehenge-em-slider.php:164 stonehenge-em-slider.php:280
+msgid "Cross Fade"
+msgstr ""
+
+#: stonehenge-em-slider.php:165 stonehenge-em-slider.php:281
+msgid "Horizontal Slide"
+msgstr ""
+
+#: stonehenge-em-slider.php:166 stonehenge-em-slider.php:282
+msgid "Vertical Slide"
+msgstr ""
+
+#: stonehenge-em-slider.php:169 stonehenge-em-slider.php:285
+msgid "Type of transition between slides."
+msgstr ""
+
+#: stonehenge-em-slider.php:173 stonehenge-em-slider.php:289
+msgid "Animation Speed"
+msgstr ""
+
+#: stonehenge-em-slider.php:183 stonehenge-em-slider.php:299
+msgid "Animation Delay"
+msgstr ""
+
+#: stonehenge-em-slider.php:193 stonehenge-em-slider.php:309
+msgid "Auto Start"
+msgstr ""
+
+#: stonehenge-em-slider.php:203 stonehenge-em-slider.php:319
+msgid "Infinite Loop"
+msgstr ""
+
+#: stonehenge-em-slider.php:213 stonehenge-em-slider.php:329
+msgid "Show Dots"
+msgstr ""
+
+#: stonehenge-em-slider.php:223 stonehenge-em-slider.php:339
+msgid "Show Arrows"
+msgstr ""
+
+#: stonehenge-em-slider.php:233 stonehenge-em-slider.php:349
+msgid "Pause on Hover"
+msgstr ""
+
+#: stonehenge-em-slider.php:240 stonehenge-em-slider.php:356
+msgid "On MouseOver only."
+msgstr ""
+
+#: stonehenge-em-slider.php:244 stonehenge-em-slider.php:360
+msgid "Enable Swipe"
+msgstr ""
+
+#: stonehenge-em-slider.php:251 stonehenge-em-slider.php:367
+msgid "If set, the slider will allow touch swipe transitions"
+msgstr ""
+
+#: stonehenge-em-slider.php:374
+msgid "Plugin Settings"
+msgstr ""
+
+#: stonehenge-em-slider.php:378
+msgid "Delete Data"
+msgstr ""
+
+#: stonehenge-em-slider.php:381
+msgid ""
+"Automatically delete all data from your database when you uninstall this "
+"plugin?"
+msgstr ""
+
+#: stonehenge-em-slider.php:396
+msgid "Event Related Placeholders"
+msgstr ""
+
+#: stonehenge-em-slider.php:400 stonehenge-em-slider.php:410
+msgid "Location Related Placeholders"
+msgstr ""
+
+#: stonehenge-em-slider.php:402
+#, php-format
+msgid "This accepts %s and %s."
+msgstr ""
+
+#: stonehenge-em-slider.php:412
+#, php-format
+msgid "This accepts %s."
+msgstr ""
+
+#: stonehenge-em-slider.php:486
+msgid "No events found matching your criteria."
+msgstr ""
+
+#: stonehenge-em-slider.php:563
+msgid "No locations found matching your criteria."
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Events Manager – Events / Locations Slider"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "https://wordpress.org/plugins/stonehenge-em-slider"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Create a dynamic Slider (carousel or fade) for Events and Locations with EM "
+"arguments you already know, using a simple shortcode."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Stonehenge Creations"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://www.stonehengecreations.nl/"
+msgstr ""

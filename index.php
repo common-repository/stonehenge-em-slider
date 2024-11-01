@@ -1,0 +1,2 @@
+<?php
+/* Silcence is golden */

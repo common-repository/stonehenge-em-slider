@@ -1,0 +1,268 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Events Manager – Events / Locations Slider\n"
+"POT-Creation-Date: 2019-06-11 13:12+0200\n"
+"PO-Revision-Date: 2019-06-11 13:13+0200\n"
+"Last-Translator: Patrick Buntsma <info@stonehengecreations.nl>\n"
+"Language-Team: Patrick Buntsma <info@stonehengecreations.nl>\n"
+"Language: nl_NL\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.3\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: stonehenge-em-slider.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;"
+"_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.min.js\n"
+
+#: core/more-addons.php:26
+msgid "More Add-ons"
+msgstr "Meer Add-ons"
+
+#: core/more-addons.php:27
+msgid "More..."
+msgstr "Meer…"
+
+#: core/more-addons.php:114
+#, php-format
+msgid "Install %s"
+msgstr "Installeer %s"
+
+#: core/more-addons.php:117
+msgid "Plugin <strong>activated</strong>."
+msgstr "Plugin <strong>geactiveerd</strong>."
+
+#: core/more-addons.php:124
+msgid "Coming Soon"
+msgstr "Komt binnenkort"
+
+#: core/more-addons.php:141
+msgid "Even More Goodies!"
+msgstr "Nog meer leuks!"
+
+#: core/stonehenge-core.php:238
+msgid "Your settings have been saved."
+msgstr "Je instellingen zijn opgeslagen."
+
+#: core/stonehenge-core.php:257 core/stonehenge-core.php:716
+msgid "Save Changes"
+msgstr "Wijzigingen opslaan"
+
+#: core/stonehenge-core.php:322 stonehenge-em-slider.php:197
+#: stonehenge-em-slider.php:207 stonehenge-em-slider.php:217
+#: stonehenge-em-slider.php:227 stonehenge-em-slider.php:237
+#: stonehenge-em-slider.php:248 stonehenge-em-slider.php:313
+#: stonehenge-em-slider.php:323 stonehenge-em-slider.php:333
+#: stonehenge-em-slider.php:343 stonehenge-em-slider.php:353
+#: stonehenge-em-slider.php:364
+msgid "No"
+msgstr "Nee"
+
+#: core/stonehenge-core.php:322 stonehenge-em-slider.php:196
+#: stonehenge-em-slider.php:206 stonehenge-em-slider.php:216
+#: stonehenge-em-slider.php:226 stonehenge-em-slider.php:236
+#: stonehenge-em-slider.php:247 stonehenge-em-slider.php:312
+#: stonehenge-em-slider.php:322 stonehenge-em-slider.php:332
+#: stonehenge-em-slider.php:342 stonehenge-em-slider.php:352
+#: stonehenge-em-slider.php:363
+msgid "Yes"
+msgstr "Ja"
+
+#: core/stonehenge-core.php:351
+msgid "Select"
+msgstr "Selecteren"
+
+#: core/stonehenge-core.php:382
+msgid "Choose file"
+msgstr "Bestand kiezen"
+
+#: core/stonehenge-core.php:383
+msgid "Clear"
+msgstr "Wissen"
+
+#: core/stonehenge-core.php:421
+msgid "Select Color"
+msgstr "Selecteer kleur"
+
+#: core/stonehenge-core.php:639
+msgid ""
+"Not all required fields were filled out. Please check all sections and try "
+"again."
+msgstr ""
+"Niet alle verplichte velden zijn ingevuld. Controleer alle onderdelen en "
+"probeer het opnieuw."
+
+#: core/stonehenge-core.php:664
+msgid "Settings"
+msgstr "Instellingen"
+
+#: core/stonehenge-core.php:679
+msgid "Support"
+msgstr "Ondersteuning"
+
+#: core/stonehenge-core.php:680
+msgid "Donate"
+msgstr "Doneren"
+
+#: core/stonehenge-core.php:683
+msgid "Rate this plugin"
+msgstr "Beoordeel deze plugin"
+
+#: core/stonehenge-core.php:716
+#, php-format
+msgctxt "Please check your settings and click on \"Save Changes\"."
+msgid "Please check your <a href=%1$s>settings</a> and click on \"%2$s\"."
+msgstr "Controleer je <a href=%1$s>instellingen</a> en klik op “%2$s”."
+
+#: core/stonehenge-core.php:732
+#, php-format
+msgid ""
+"New options have been added. Please, check your <a href=%1$s>settings</a>."
+msgstr ""
+"Er zijn nieuwe opties toegevoegd. Controleer je <a href=%1$s>instellingen</"
+"a>."
+
+#: stonehenge-em-slider.php:147 stonehenge-em-slider.php:263
+msgid "Example"
+msgstr "Voorbeeld"
+
+#: stonehenge-em-slider.php:150 stonehenge-em-slider.php:266
+#, php-format
+msgid "You can use the same arguments as in the %s shortcode."
+msgstr "Je kunt dezelfde argumenten gebruiken als in de %s shortcode."
+
+#: stonehenge-em-slider.php:154 stonehenge-em-slider.php:270
+msgid "Single Slide Format"
+msgstr "Enkele Dia-vormgeving"
+
+#: stonehenge-em-slider.php:161 stonehenge-em-slider.php:277
+msgid "Animation Mode"
+msgstr "Animatie-type"
+
+#: stonehenge-em-slider.php:164 stonehenge-em-slider.php:280
+msgid "Cross Fade"
+msgstr "Overvloeien"
+
+#: stonehenge-em-slider.php:165 stonehenge-em-slider.php:281
+msgid "Horizontal Slide"
+msgstr "Horizontale dia"
+
+#: stonehenge-em-slider.php:166 stonehenge-em-slider.php:282
+msgid "Vertical Slide"
+msgstr "Verticale dia"
+
+#: stonehenge-em-slider.php:169 stonehenge-em-slider.php:285
+msgid "Type of transition between slides."
+msgstr "Soort overgang tussen de dia’s."
+
+#: stonehenge-em-slider.php:173 stonehenge-em-slider.php:289
+msgid "Animation Speed"
+msgstr "Animatie-snelheid"
+
+#: stonehenge-em-slider.php:183 stonehenge-em-slider.php:299
+msgid "Animation Delay"
+msgstr "Animatie-vertraging"
+
+#: stonehenge-em-slider.php:193 stonehenge-em-slider.php:309
+msgid "Auto Start"
+msgstr "Automatische start"
+
+#: stonehenge-em-slider.php:203 stonehenge-em-slider.php:319
+msgid "Infinite Loop"
+msgstr "Oneindige loop"
+
+#: stonehenge-em-slider.php:213 stonehenge-em-slider.php:329
+msgid "Show Dots"
+msgstr "Toon Stippen"
+
+#: stonehenge-em-slider.php:223 stonehenge-em-slider.php:339
+msgid "Show Arrows"
+msgstr "Toon Pijlen"
+
+#: stonehenge-em-slider.php:233 stonehenge-em-slider.php:349
+msgid "Pause on Hover"
+msgstr "Pauzeer bij aanwijzen"
+
+#: stonehenge-em-slider.php:240 stonehenge-em-slider.php:356
+msgid "On MouseOver only."
+msgstr "Alleen als de muis er overheen staat."
+
+#: stonehenge-em-slider.php:244 stonehenge-em-slider.php:360
+msgid "Enable Swipe"
+msgstr "Vegen inschakelen"
+
+#: stonehenge-em-slider.php:251 stonehenge-em-slider.php:367
+msgid "If set, the slider will allow touch swipe transitions"
+msgstr "Indien ingeschakeld, kun je met je vingers vegen"
+
+#: stonehenge-em-slider.php:374
+msgid "Plugin Settings"
+msgstr "Plugin instellingen"
+
+#: stonehenge-em-slider.php:378
+msgid "Delete Data"
+msgstr "Verwijder Data"
+
+#: stonehenge-em-slider.php:381
+msgid ""
+"Automatically delete all data from your database when you uninstall this "
+"plugin?"
+msgstr ""
+"Automatisch alle data uit de database verwijderen als je deze plugin de-"
+"installeert?"
+
+#: stonehenge-em-slider.php:396
+msgid "Event Related Placeholders"
+msgstr "Invoegcodes voor evenementen"
+
+#: stonehenge-em-slider.php:400 stonehenge-em-slider.php:410
+msgid "Location Related Placeholders"
+msgstr "Invoegcodes voor locaties"
+
+#: stonehenge-em-slider.php:402
+#, php-format
+msgid "This accepts %s and %s."
+msgstr "Dit accepteert %s en %s."
+
+#: stonehenge-em-slider.php:412
+#, php-format
+msgid "This accepts %s."
+msgstr "Dit accepteert %s."
+
+#: stonehenge-em-slider.php:486
+msgid "No events found matching your criteria."
+msgstr "Er zijn geen evenementen gevonden die aan je criteria voldoen."
+
+#: stonehenge-em-slider.php:563
+msgid "No locations found matching your criteria."
+msgstr "Geen locaties gevonden die aan jouw criteria voldoen."
+
+#. Plugin Name of the plugin/theme
+msgid "Events Manager – Events / Locations Slider"
+msgstr "Events Manager – Events / Locations Slider"
+
+#. Plugin URI of the plugin/theme
+msgid "https://wordpress.org/plugins/stonehenge-em-slider"
+msgstr "https://wordpress.org/plugins/stonehenge-em-slider"
+
+#. Description of the plugin/theme
+msgid ""
+"Create a dynamic Slider (carousel or fade) for Events and Locations with EM "
+"arguments you already know, using a simple shortcode."
+msgstr ""
+"Maak een dynamische Slider (carrousel of vervagen) voor Evenementen en "
+"Locaties met EM argumenten die je al kent, met een simpele shortcode."
+
+#. Author of the plugin/theme
+msgid "Stonehenge Creations"
+msgstr "Stonehenge Creations"
+
+#. Author URI of the plugin/theme
+msgid "http://www.stonehengecreations.nl/"
+msgstr "http://www.stonehengecreations.nl/"
